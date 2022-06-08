@@ -33,4 +33,8 @@ Category:Add Category
          Update Category
          Delete Category
 Food:Add food
-     Update
+     Update Title, Description, Price, photo, Category
+     select featured and active
+Order: Add Order
+     Update S.N.	Full Name	Price	Qty.	Total	Date	Status	Customer Name	Customer contact	Email	Address	Action
+Logout : logout account
